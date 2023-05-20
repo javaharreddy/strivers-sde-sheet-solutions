@@ -3,3 +3,6 @@
 - set matrix zeros - [leetcode](https://leetcode.com/problems/set-matrix-zeroes/)
 - pascals triangle - [leetcode](https://leetcode.com/problems/pascals-triangle/)
 - next permutation - [leetcode](https://leetcode.com/problems/next-permutation/)
+- maximum subarray - [leetcode](https://leetcode.com/problems/maximum-subarray/)
+- sort colors - [leetcode](https://leetcode.com/problems/sort-colors/)
+- best time to buy and sell stocks - [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
