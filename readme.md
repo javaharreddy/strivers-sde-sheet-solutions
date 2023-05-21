@@ -6,3 +6,7 @@
 - maximum subarray - [leetcode](https://leetcode.com/problems/maximum-subarray/)
 - sort colors - [leetcode](https://leetcode.com/problems/sort-colors/)
 - best time to buy and sell stocks - [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- reverse linked list - [leetcode](https://leetcode.com/problems/reverse-linked-list/)
+- middle of linked list - [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
+- merge two sorted lists - [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 
