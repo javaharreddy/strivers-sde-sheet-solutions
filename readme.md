@@ -9,4 +9,4 @@
 - reverse linked list - [leetcode](https://leetcode.com/problems/reverse-linked-list/)
 - middle of linked list - [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
 - merge two sorted lists - [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
-- 
+- delete node in a linked list - [leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/)
