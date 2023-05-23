@@ -9,4 +9,8 @@
 - reverse linked list - [leetcode](https://leetcode.com/problems/reverse-linked-list/)
 - middle of linked list - [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
 - merge two sorted lists - [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
+- remove nth node from back of the linked list - [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- add two numbers as a linked list - [leetcode](https://leetcode.com/problems/add-two-numbers/)
 - delete node in a linked list - [leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+- find intersection point of y linked list - [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- detect a cycle in a linked list - [leetcode](https://leetcode.com/problems/linked-list-cycle/)
