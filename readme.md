@@ -14,3 +14,5 @@
 - delete node in a linked list - [leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - find intersection point of y linked list - [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - detect a cycle in a linked list - [leetcode](https://leetcode.com/problems/linked-list-cycle/)
+- check if linked list is a palindrome or not - [leetcode](https://leetcode.com/problems/palindrome-linked-list/description/)
+- find starting point of loop of a linked list - [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)
