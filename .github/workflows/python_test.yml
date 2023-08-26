@@ -21,12 +21,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
-        
-    - name: Install pyflakes
-      run: python -m pip install pyflakes
-        
-    - name: Run pyflakes
-      run: pyflakes ${{ github.event.client_payload.file_name }}  # Check for syntax errors
+
+    - name: Check for syntax errors
+      run: python -m py_compile ${{ github.event.client_payload.file_name }}
+
+    - name: Run tests using unittest
+      run: python -m unittest discover -v
+
 
     - name: Run tests using unittest
       run: python -m unittest discover -v  # Run tests using unittest
