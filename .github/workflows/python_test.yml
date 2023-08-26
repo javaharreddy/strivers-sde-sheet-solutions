@@ -23,4 +23,5 @@ jobs:
         python-version: ${{ matrix.python-version }}
         
     - name: Run Python script
-      run: python ${{ github.event.client_payload.file_name }}  # Run the specified Python file
+      run: |
+        python ${{ github.event.client_payload.file_name }} || exit 1  # Run the specified Python file and exit with status 1 if there's an error
