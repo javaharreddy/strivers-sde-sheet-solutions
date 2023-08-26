@@ -27,3 +27,7 @@ jobs:
         
     - name: Run pyflakes
       run: pyflakes ${{ github.event.client_payload.file_name }}  # Check for syntax errors
+
+    - name: Run tests using unittest
+      run: python -m unittest discover -v  # Run tests using unittest
+
